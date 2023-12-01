@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Trabalho 1</string>
+    <string name="titulo_home">Lorem Ipsum</string>
+    <string name="texto_home">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...</string>
+    <string name="texto_noticia_1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis placerat posuere justo sit amet efficitur. In vulputate, neque vel aliquam suscipit, ipsum neque hendrerit ante, non ultrices enim mi laoreet erat. Nulla semper placerat nibh id lobortis. Fusce elementum dapibus eros vel vulputate. Cras et mauris nec magna imperdiet feugiat. Phasellus consectetur enim sit amet nunc iaculis ornare. Aliquam gravida elit massa. In id nisi eu nisl ullamcorper tristique egestas sit amet lectus. Integer iaculis, orci nec pellentesque semper, enim lacus suscipit diam, a dapibus dui mauris a magna. Maecenas vel sapien sem. Fusce dapibus mi ut quam iaculis scelerisque. Phasellus nec urna convallis, bibendum nulla eget, condimentum dui. Nullam tempus felis purus, a efficitur odio efficitur vitae.</string>
+</resources>
